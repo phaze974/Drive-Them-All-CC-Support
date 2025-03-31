@@ -1,5 +1,11 @@
 # 🎮🎨 Drive Them All - CC (Support)
 
+![License: GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)  
+![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)  
+![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg)  
+[![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://your-gumroad-link.com)  
+[![Blender Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](https://your-blendermarket-link.com)
+
 **Drive Them All - CC** is a Blender addon that lets you capture, train, and control your own Colors and Controls like a true "Driver Master"!  
 Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometry Nodes, this tool helps you easily build clean and dynamic driver setups.  
 *Version 1.0: simplified management only*
