@@ -51,6 +51,7 @@ In the meantime, feel free to use the Issues tab to ask your questions.
 
 ## 🧾 License
 
-This GitHub repository (support only) is licensed under [MIT](LICENSE).  
+This GitHub repository (support only) is licensed under the **GNU General Public License v3.0**.  
 The actual addon source code is **not distributed here**.
 
+➡️ [View full license](./LICENSE)
