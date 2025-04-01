@@ -3,60 +3,67 @@
 ![License: GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)  
 ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)  
 ![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg)  
-[![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://your-gumroad-link.com)  
-[![Blender Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](https://your-blendermarket-link.com)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com)  
+[![Blender Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](https://blendermarket.com/creators/phaze974)
 
-**Drive Them All - Colors & Controls** is a Blender addon that lets you capture, train, and control your own Colors and Controls like a true "Driver Master"!  
-Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometry Nodes, this tool helps you easily build clean and dynamic driver setups.  
-*Version 1.0: simplified management only*
+---
+
+**Drive Them All – Colors & Controls** is a Blender addon that lets you capture, train, and drive your own Colors and Controls like a true Driver Master!  
+
+Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometry Nodes, this tool helps you build clean, dynamic driver setups with ease.  
+
+🛠️ *Version 1.0 – Streamlined control & color management only*
 
 ---
 
 ## 📌 Main Features
 
-- 🎛️ Create and control custom properties (float, int, vector, bool)
-- 🎨 Create and control dynamic colors
-- 🧠 Add drivers in just two clicks
-- 📦 Organize everything into “Teams” of grouped elements
+- 🎛️ Create and manage custom properties (float, int, vector, bool)  
+- 🎨 Control dynamic colors with a simple and intuitive color picker  
+- 🧠 Add drivers in just two clicks  
+- 📦 Organize everything into “Teams” of grouped elements  
 
 ---
 
 ## 🐞 Report a Bug
 
-Found a bug or strange behavior?
+Found a bug or weird behavior?
 
-👉 Go to the **[Issues tab](https://github.com/Phaze974/Drive-Them-All-CC-Support/issues)**  
-Click on **"New issue"** and describe what happened:
+👉 Head to the **[Issues tab](https://github.com/Phaze974/Drive-Them-All-CC-Support/issues)**  
+Click on **"New issue"**, then choose the appropriate template and fill in the details:
 
-- Blender version used
-- Steps to reproduce the bug
-- Expected vs actual result
-- Copy/paste any error from the Python Console or Info panel
-- Add a screenshot or GIF if needed!
+- Blender version used  
+- Steps to reproduce the bug  
+- What you expected vs. what actually happened  
+- Error message from the Console or Info panel  
+- Screenshot or video (if available)
 
 ---
 
-## 📦 Where to get the addon?
+## 🎁 Get Drive Them All – CC
 
-🔒 This addon is not open-source.  
-It will be available for purchase soon here:
+🔒 The addon source code is not open-source.
 
-> 💸 [Gumroad link here]  
-> (or)  
-> 💸 [Blender Market link here]
+You can purchase the addon from the following platforms:
+
+> 💸 [Available on Gumroad](https://phaze974.gumroad.com)  
+> 💸 [Also on Blender Market](https://blendermarket.com/creators/phaze974)
 
 ---
 
 ## 📖 Documentation
 
-A complete usage guide is coming soon!  
-In the meantime, feel free to use the Issues tab to ask your questions.
+A full manual is available in the Wiki:  
+➡️ [DriveDex's Manual](https://github.com/Phaze974/Drive-Them-All-CC-Support/wiki)
+
+If you still have questions, you can also ask directly via the [Issues tab](https://github.com/Phaze974/Drive-Them-All-CC-Support/issues).
 
 ---
 
 ## 🧾 License
 
-This GitHub repository (support only) is licensed under the **GNU General Public License v3.0**.  
-The actual addon source code is **not distributed here**.
+This GitHub repository is for **documentation and support only**, and is licensed under the **GNU General Public License v3.0**.  
+
+The addon source code is not distributed here.
 
 ➡️ [View full license](./LICENSE)
