@@ -18,7 +18,6 @@ Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometr
 - 🎨 Create and control dynamic colors
 - 🧠 Add drivers in just two clicks
 - 📦 Organize everything into “Teams” of grouped elements
-- 🧹 Clean and reset everything — all wrapped in a fun and user-friendly Pokémon-inspired theme!
 
 ---
 
