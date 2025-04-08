@@ -58,8 +58,7 @@ If you still have questions, you can also ask directly via the [Issues tab](http
 
 ## 🧾 License
 
-This GitHub repository is for **documentation and support only**, and is licensed under the **GNU General Public License v3.0**.  
+This addon is a paid product and is **not open-source**.  
+Usage is subject to a commercial license.  
 
-The addon source code is not distributed here.
-
-➡️ [View full license](./LICENSE)
+➡️ [View full license](./LICENSE.txt)
