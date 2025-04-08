@@ -1,10 +1,6 @@
 # 🎮🎨 Drive Them All - CC (Support)
 
-![License: GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)  
-![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)  
-![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg)  
-[![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com)  
-[![Blender Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](https://blendermarket.com/creators/phaze974)
+[![License: GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](./LICENSE) ‖ ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg) ‖ ![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg) ‖ [![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com) ‖ [![Blender Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](https://blendermarket.com/creators/phaze974)
 
 ---
 
