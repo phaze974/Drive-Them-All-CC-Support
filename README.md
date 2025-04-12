@@ -8,7 +8,7 @@
 
 Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometry Nodes, this tool helps you build clean, dynamic driver setups with ease.  
 
-🛠️ *Version 1.0 – Streamlined control & color management only*
+🛠️ *Version 1.0 – Streamlined control & color Driver's management*
 
 ---
 
