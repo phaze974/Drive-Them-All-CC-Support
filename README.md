@@ -43,7 +43,7 @@ Click on **"New issue"**, then choose the appropriate template and fill in the d
 You can purchase the addon from the following platforms:
 
 > 💸 [Available on Gumroad](https://phaze974.gumroad.com)  
-> 💸 [Also on Blender Market](https://blendermarket.com/creators/phaze974)
+> 💸 [SuperHive Market - Not Yet](#)
 
 ---
 
