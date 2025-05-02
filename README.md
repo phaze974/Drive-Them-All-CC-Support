@@ -25,7 +25,7 @@ Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometr
 
 Found a bug or weird behavior?
 
-👉 Head to the **[Issues tab](https://github.com/Phaze974/Drive-Them-All-CC-Support/issues)**  
+➡️ Head to the **[Issues tab](https://github.com/Phaze974/Drive-Them-All-CC-Support/issues)**  
 Click on **"New issue"**, then choose the appropriate template and fill in the details:
 
 - Blender version used  
@@ -42,8 +42,8 @@ Click on **"New issue"**, then choose the appropriate template and fill in the d
 
 You can purchase the addon from the following platforms:
 
-> 💸 [Available on Gumroad](https://phaze974.gumroad.com)  
-> 💸 [SuperHive Market - Not Yet](#)
+> 👉 [Available on Gumroad](https://phaze974.gumroad.com)  
+> 👉 [SuperHive Market - Not Yet](#)
 
 ---
 
