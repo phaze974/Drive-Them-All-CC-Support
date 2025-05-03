@@ -39,6 +39,6 @@ Add an image, sketch, or GIF if it helps illustrate your idea.
 
 How important does this feature feel to you?
 
-- [ ] 🟢 Nice to have but not urgent  
-- [ ] 🟡 Very useful feature  
-- [ ] 🔴 Essential / Missing feature
+- [ ] Nice to have but not urgent  
+- [ ] Very useful feature  
+- [ ] Essential / Missing feature
