@@ -14,9 +14,9 @@ Whether you're working in the 3D Viewport, Shader Editor, Compositor, or Geometr
 
 ## 📌 Main Features
 
-- 🎛️ Create and manage custom properties (float, int, vector, bool)  
+- 🎮 Create and manage custom properties (float, int, vector, bool)  
 - 🎨 Control dynamic colors with a simple and intuitive color picker  
-- 🧠 Add drivers in just two clicks  
+- ⚡ Add drivers in just two clicks  
 - 📦 Organize everything into “Teams” of grouped elements  
 
 ---
