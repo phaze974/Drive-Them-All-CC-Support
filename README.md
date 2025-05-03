@@ -1,6 +1,6 @@
 # 🎮🎨 Drive Them All - CC (Support)
 
-[![License: Custom Commercial](https://img.shields.io/badge/license-Custom--Commercial-red.svg)](./LICENSE.txt) (https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE) ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg) [![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com) [![SuperHive Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](#)
+[![License: Custom Commercial](https://img.shields.io/badge/license-Custom--Commercial-red.svg)](https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE) ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg) [![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com) [![SuperHive Market](https://img.shields.io/badge/Blender%20Market-Link-green.svg)](#)
 
 ---
 
