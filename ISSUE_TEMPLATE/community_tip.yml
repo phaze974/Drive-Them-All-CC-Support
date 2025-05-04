@@ -1,0 +1,39 @@
+name: 📣 Community Tip / Project
+
+description: Share a creative use of the addon, or show your setup!
+labels: [community, showcase, tip]
+
+body:
+  - type: input
+    id: project_name
+    attributes:
+      label: Project or Tip Title
+      placeholder: "Example: Animated Control Panel with DriveDex"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📖 What are you sharing?
+      description: Explain your setup, trick, or use case
+      placeholder: "Tell us what this project or tip is about."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: ❓ Why is this useful?
+      placeholder: "How does it help your workflow? What’s the benefit?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: image
+    attributes:
+      label: 🌍 Screenshot / GIF / Blend file
+      description: Show us what it looks like!
+      placeholder: "Upload visuals below if needed."
+    validations:
+      required: false
