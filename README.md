@@ -1,6 +1,7 @@
 ![Logo_DriveDex](https://github.com/user-attachments/assets/76c5f7fd-6343-4d9a-9d45-d9c7251d9998)
 <div align="center">
-# 🎮🎨 Drive Them All - CC (Support)
+
+<h1>🎮🎨 Drive Them All - CC (Support)</h1>
 
 <a href="https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/license-Custom--Commercial-red.svg" alt="License">
