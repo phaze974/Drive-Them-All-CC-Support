@@ -62,3 +62,6 @@ This addon is a paid product and is **not open-source**.
 Usage is subject to a commercial license.  
 
 ➡️ [View full license](https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE)
+
+![THUMBNAIL_GUMROAD_DTA-CC](https://github.com/user-attachments/assets/75ceea4b-e435-4948-83aa-4fa3bbe6a663)
+
