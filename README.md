@@ -1,3 +1,4 @@
+ ![Logo_DriveDex](https://github.com/user-attachments/assets/5e1653b8-1d52-4c29-b758-5ce6fcba67d3)
 # 🎮🎨 Drive Them All - CC (Support)
 
 [![License: Custom Commercial](https://img.shields.io/badge/license-Custom--Commercial-red.svg)](https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE) ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg) [![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com)
