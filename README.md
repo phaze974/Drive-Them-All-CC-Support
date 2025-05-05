@@ -1,7 +1,18 @@
 ![Logo_DriveDex](https://github.com/user-attachments/assets/76c5f7fd-6343-4d9a-9d45-d9c7251d9998)
+<div align="center">
 # 🎮🎨 Drive Them All - CC (Support)
 
-[![License: Custom Commercial](https://img.shields.io/badge/license-Custom--Commercial-red.svg)](https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE) ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![Blender](https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg) [![Gumroad](https://img.shields.io/badge/Gumroad-Link-green.svg)](https://phaze974.gumroad.com)
+<a href="https://github.com/phaze974/Drive-Them-All-CC-Support/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/license-Custom--Commercial-red.svg" alt="License">
+</a>
+<img src="https://img.shields.io/badge/version-1.0.0-orange.svg" alt="Version">
+<img src="https://img.shields.io/badge/blender-3.6%2B-lightgrey.svg" alt="Blender">
+<a href="https://phaze974.gumroad.com">
+  <img src="https://img.shields.io/badge/Gumroad-Link-green.svg" alt="Gumroad">
+</a>
+
+</div>
+
 
 ---
 
