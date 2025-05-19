@@ -1,0 +1,53 @@
+name: 💡 Feature Request – 🔵 DTA-Colors
+description: Suggest a new idea or feature for the Drive Them All – Colors addon
+labels: [enhancement, suggestion, dta-colors]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🎨 Got an idea to improve DTA-Colors? Let us know below!
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: 💡 Suggestion / Feature Request
+      description: Describe the idea or improvement you’d like to see.
+      placeholder: "What is your idea?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 🧠 Feature Description
+      description: What problem does it solve? Why is it useful?
+      placeholder: "Explain clearly what this feature would do."
+    validations:
+      required: true
+
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 🔄 Expected Behavior
+      description: Describe how it would work in Blender.
+      placeholder: "What should happen?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: visual
+    attributes:
+      label: 🎨 Screenshot or Example (optional)
+      placeholder: "Add a visual, if helpful."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: priority
+    attributes:
+      label: 📌 Priority
+      description: How important is this feature for you?
+      options:
+        - label: Nice to have but not urgent
+        - label: Very useful feature
+        - label: Essential / Missing feature
