@@ -1,0 +1,68 @@
+name: 🐞 Bug Report – 🔵 DTA-Colors
+description: Report a problem or error in the Drive Them All – Colors addon
+labels: [bug, dta-colors]
+body:
+  - type: input
+    id: addon_version
+    attributes:
+      label: DTA-Colors version
+      placeholder: "e.g. 1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: blender_version
+    attributes:
+      label: Blender version
+      placeholder: "e.g. 4.0.2"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 🐞 Bug Description
+      description: What were you trying to do? What happened instead?
+      placeholder: "Describe the bug clearly and briefly."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: ↺ Steps to Reproduce
+      description: List the steps that triggered the issue.
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 🎯 Expected Result
+      placeholder: "What did you expect to happen?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: ⚠️ Actual Result
+      placeholder: "What actually happened?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: console
+    attributes:
+      label: 🐍 Console Message (if any)
+      description: Copy/paste any error from the Python Console or Info panel
+      placeholder: "Traceback (most recent call last)..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: files
+    attributes:
+      label: 📌 .blend File or Screenshot
+      description: Drag and drop files here if needed (GIF, screenshot, .blend)
