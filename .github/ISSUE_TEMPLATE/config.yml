@@ -1,0 +1,33 @@
+blank_issues_enabled: false
+contact_links: []
+
+issue_templates:
+  - name: 🟡 Bug Report – DTA-CC
+    description: Report a problem or error in the Drive Them All – CC addon
+    labels: [bug, dta-cc]
+    file: 🟡-DTA-CC_bug_report.yml
+
+  - name: 🟡 Feature Request – DTA-CC
+    description: Suggest a new idea or feature for the Drive Them All – CC addon
+    labels: [enhancement, suggestion, dta-cc]
+    file: 🟡-DTA-CC_feature_request.yml
+
+  - name: 🔵 Bug Report – DTA-Colors
+    description: Report a problem or error in the Drive Them All – Colors addon
+    labels: [bug, dta-colors]
+    file: 🔵-DTA-Colors_bug_report.yml
+
+  - name: 🔵 Feature Request – DTA-Colors
+    description: Suggest a new idea or feature for the Drive Them All – Colors addon
+    labels: [enhancement, suggestion, dta-colors]
+    file: 🔵-DTA-Colors_feature_request.yml
+
+  - name: 🔴 Bug Report – DTA-Controls
+    description: Report a problem or error in the Drive Them All – Controls addon
+    labels: [bug, dta-controls]
+    file: 🔴-DTA-Controls_bug_report.yml
+
+  - name: 🔴 Feature Request – DTA-Controls
+    description: Suggest a new idea or feature for the Drive Them All – Controls addon
+    labels: [enhancement, suggestion, dta-controls]
+    file: 🔴-DTA-Controls_feature_request.yml
